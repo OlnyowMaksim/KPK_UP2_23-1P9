@@ -1,4 +1,4 @@
-# Teacher Availability Service (Вариант 5)
+# Teacher Availability Service (Вариант 23)
 
 ## Описание API
 
